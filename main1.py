@@ -10,7 +10,6 @@ print (2 * (2 + 2))
 print ((2 * 2 + 2) == (2 * (2 + 2)))
 
 # 4th program
-a = str("123.456")
-a = int(123.456*10)
-b = a (range(3) )
-print(b)
+aa = '123.456'
+bb = float (aa)*10
+print (int (bb) % 10)
